@@ -6,7 +6,7 @@ A collection of repos I've worked on during my time at EMQL
 
 ## Software
 [daisy-appimage](https://github.com/FarisRedza/daisy-appimage)\
-[usbtmc-rules](https://github.com/FarisRedza/usbtmc-rules)\
+[usbtmc-rules](https://github.com/FarisRedza/usbtmc-rules)
 
 ## Managed Ubuntu utilities
 [system-updater](https://github.com/FarisRedza/system-updater)\
